@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+setuptools==81.0.0
+streamlit
+ipykernel
+pandas
+numpy
+scikit-learn
+scikeras
+nltk
